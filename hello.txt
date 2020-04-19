@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+    <body>
+    <!-- This is an example of me commenting on the document, without really saying much, but its good practise -->
+
+    </body>
+  </head>
+</html>
